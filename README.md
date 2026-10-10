@@ -37,20 +37,33 @@ At **Kam Global for Digital AI Media Solutions**, I contribute to AI-powered pro
 
 ### Tech Stack
 
-| Area | Tools |
+| Area | Technologies |
 |---|---|
-| Languages | Python · TypeScript · JavaScript · SQL · Java |
-| Machine Learning | scikit-learn · XGBoost · LightGBM · TensorFlow/Keras |
-| AI & NLP | Embeddings & semantic search (pgvector, fastembed) · NLP pipelines |
-| Backend | FastAPI · SQLAlchemy · Alembic · PostgreSQL · REST APIs |
-| Frontend | React · TypeScript |
-| Data & Visualization | pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI |
-| Tooling | Git · GitHub Actions · Docker · Jupyter |
+| **Languages** | Python · TypeScript · JavaScript · SQL · Java |
+| **Machine Learning & Deep Learning** | PyTorch · TensorFlow/Keras · scikit-learn · XGBoost · LightGBM · Transformers |
+| **Generative AI & LLM Engineering** | LLMs · Prompt Engineering · Fine-Tuning · LoRA/QLoRA · Model Evaluation |
+| **Agentic AI & Automation** | AI Agents · Multi-Agent Systems · n8n · Agent Integrations · Tool Calling · Workflow Orchestration |
+| **AI Connectivity & Retrieval** | MCP · LangGraph · RAG · GraphRAG · Embeddings · Semantic Search · pgvector · fastembed |
+| **Multimodal AI** | Computer Vision · Vision-Language Models · OCR · Speech AI · Image/Video Understanding |
+| **Backend & APIs** | FastAPI · REST APIs · SQLAlchemy · Alembic · PostgreSQL |
+| **Frontend Development** | React · TypeScript · HTML · CSS |
+| **Data Science & Visualization** | pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI |
+| **Deployment & Hosting** | Vercel · Render · Hostinger · Docker · CI/CD |
+| **Development & Version Control** | Git · GitHub · GitHub Actions · Jupyter |
 
-### Currently
+### Currently Building
 
-- Building and hardening **TalentMatch-AI** (multi-tenancy, data security, test coverage).
-- Going deeper into **agentic AI, advanced retrieval and model adaptation**, with a new flagship project on the way.
+- Hardening **TalentMatch-AI** (multi-tenancy, data security, test coverage), with a new flagship project on the way.
+
+### Currently Exploring
+
+- **Advanced LLM Architectures** — Transformer internals, attention mechanisms, model architecture design
+- **LLM Training & Post-Training** — Distributed training, preference optimization, reward modeling
+- **Reinforcement Learning** — PPO, GRPO, policy optimization, reward design
+- **AI Research Engineering** — Research paper reproduction, controlled experiments, ablation studies
+- **Mechanistic Interpretability** — Understanding internal neural network representations and model behavior
+- **Inference Systems Engineering** — GPU optimization, KV caching, continuous batching, high-throughput inference
+- **Advanced Reasoning Systems** — Test-time compute, search-based reasoning, inference-time scaling
 
 ---
 
