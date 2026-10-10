@@ -17,6 +17,13 @@ I build intelligent products with Python, machine learning and generative AI, wo
 - Interested in model-level work: fine-tuning (LoRA/QLoRA), evaluation, inference optimization, and reliable deployment (MLOps/LLMOps).
 - Two published research papers on NLP applications (customer-support chatbots and legal document analysis).
 
+### Professional Work
+
+At **Kam Global for Digital AI Media Solutions**, I contribute to AI-powered products for the education sector (source code is private to the company):
+
+- **EdTech platform for schools, colleges and universities** — Student Management System (SMS) and Learning Management System (LMS) with AI-powered automation.
+- **Connected finance and HRMS modules** supporting institutional administration.
+
 ### Featured Projects
 
 | Project | What it does | Stack |
@@ -47,4 +54,4 @@ I build intelligent products with Python, machine learning and generative AI, wo
 
 ---
 
-<p align="left"><sub>Open to Junior AI Developer, ML Engineer and Python Developer roles · Reach me on <a href="https://linkedin.com/in/e-bhavani-755ab8261">LinkedIn</a></sub></p>
+<p align="left"><sub>Open to collaboration on AI engineering projects · Reach me on <a href="https://linkedin.com/in/e-bhavani-755ab8261">LinkedIn</a></sub></p>
