@@ -1,7 +1,7 @@
 <h1 align="left">E. Bhavani</h1>
 
-<p align="left"><b>AI Developer · Bengaluru, India</b><br/>
-Building intelligent applications with Python, machine learning and generative AI — from data and models to APIs and product-ready systems.</p>
+<p align="left"><b>Junior AI Developer at Kam Global for Digital AI Media Solutions · Bengaluru, India</b><br/>
+I build intelligent products with Python, machine learning and generative AI, working across the lifecycle: research and experimentation, system design, implementation, evaluation and deployment.</p>
 
 <p align="left">
   <a href="https://e-bhavani-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-0B1F3A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -12,8 +12,9 @@ Building intelligent applications with Python, machine learning and generative A
 
 ### About
 
-- Focused on **AI/ML engineering**: machine learning, NLP, semantic search with embeddings, and full-stack AI applications.
-- Interested in **generative AI, RAG and AI agents**, and in turning models into practical, well-engineered products.
+- B.Tech in Computer Science & Engineering (AI & ML), Presidency University, Bengaluru.
+- Focused on **AI engineering** beyond API integration: generative AI, agentic and multi-agent systems, RAG, multimodal AI, and production-grade AI products.
+- Interested in model-level work: fine-tuning (LoRA/QLoRA), evaluation, inference optimization, and reliable deployment (MLOps/LLMOps).
 - Two published research papers on NLP applications (customer-support chatbots and legal document analysis).
 
 ### Featured Projects
@@ -42,7 +43,7 @@ Building intelligent applications with Python, machine learning and generative A
 ### Currently
 
 - Building and hardening **TalentMatch-AI** (multi-tenancy, data security, test coverage).
-- Learning more about **RAG systems and AI agents** for production use.
+- Going deeper into **agentic AI, advanced retrieval and model adaptation**, with a new flagship project on the way.
 
 ---
 
